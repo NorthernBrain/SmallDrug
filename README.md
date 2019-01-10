@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 **在调用完你需要的权限后，最后调用heal()就可以，但是不能只调用heal，会抛出异常，如果你用的是BigDrug，此时你就不需要再清单文件中声明权限，如果是SmallDrug，你必须在清单文件中声明你需要的权限**
-<br>
+<br><br><br>
 你也可以这样调用，这样是获取所有Android6.0后的危险权限
 
 ```java
