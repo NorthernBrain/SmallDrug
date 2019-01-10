@@ -1,10 +1,13 @@
 # <center>BigDrug和SmallDrug</center>
 ## 使用说明
 地址：
+<br>
 https://github.com/NorthernBrain/BigDrug
 <br>
 https://github.com/NorthernBrain/SmallDrug
+<br>
 这一个库中封装了Android6.0之后需要动态申请的权限，你只需要调用方法就可以直接拿到权限
+<br>
 
 ## 使用方法
 首先需要在你的Porject中的build.gradle加入maven
